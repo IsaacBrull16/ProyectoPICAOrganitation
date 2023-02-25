@@ -8,9 +8,10 @@ import ...
  * Esta clase ve la posición de la carta en el tablero
  */
 
+/**
+ * Como es 3x1 solo nos interesa la posición x
+ */    
+    
 public class Move {
-    /**
-     * Como es 3x1 solo nos interesa la posición x
-     */
     int x;
 }
