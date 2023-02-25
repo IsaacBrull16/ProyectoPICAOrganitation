@@ -8,23 +8,26 @@ import ...
  * Esta clase simulará el dado
  */
 
+/**
+ * Valor del dado
+ */    
+    
 public class Dice {
-    /**
-     * Valor del dado
-     */
     int value;
 }
 
+/**
+ * Verá el valor
+ */
+
 public void value(){
-    /**
-     * Verá el valor
-     */
-    @TODO
+    //@TODO
 }
 
+/**
+ * Guardará el valor
+ */
+
 public void keep(){
-    /**
-     * Guardará el valor
-     */
-    @TODO
+    //@TODO
 }
