@@ -8,33 +8,37 @@ import ...
  * Esta clase definirá la carta en juego
  */
 
+/**
+ * Nos interesará el nombre, daño que hace, vida y tipo de nuestra criatura
+ */    
+    
 public class Card {
-    /**
-     * Nos interesará el nombre, daño que hace, vida y tipo de nuestra criatura
-     */
     String name;
     int damage;
     int hp;
     String type;
 }
 
+/**
+ * Esta Función atacará con el valor damage de la carta
+ */
+
 public void attack(){
-    /**
-     * Esta Función atacará con el valor damage de la carta
-     */
-    @TODO
+    //@TODO
 }
+
+/**
+ * Función que verá la vida de la criatura en función del hp de la carta
+ */
 
 public void receive(){
-    /**
-     * Función que verá la vida de la criatura en función del hp de la carta
-     */
-    @TODO
+    //@TODO
 }
 
+/**
+ * Comprovará el tipo de la criatura y verá quien es el más efectivo contra el otro de los dos
+ */
+
 public void effectiveness(){
-    /**
-     * Comprovará el tipo de la criatura y verá quien es el más efectivo contra el otro de los dos
-     */
-    @TODO
+    //@TODO
 }
