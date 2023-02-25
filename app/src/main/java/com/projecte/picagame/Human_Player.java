@@ -11,9 +11,10 @@ import ...
 public class Human_Player {
 }
 
+/**
+ * Esta función hace el movimiento del jugador humano
+ */
+
 public void get_move(){
-    /**
-     * Esta función hace el movimiento del jugador humano
-     */
-    @TODO
+    //@TODO
 }
