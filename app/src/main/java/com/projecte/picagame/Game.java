@@ -8,39 +8,44 @@ import ...
  * Esta clase definirá lo que sucederá durante cada turno
  */
 
+/**
+ * El jugador actual será o 0 o 1, ya que solo hay 2 jugadores(reales/máquina)
+ * Winner será o uno o el otro
+ */    
+    
 public class Game {
-    /**
-     * El jugador actual será o 0 o 1, ya que solo hay 2 jugadores(reales/máquina)
-     * Winner será o uno o el otro
-     */
     int actual_player[1];
     boolean winner;
 }
 
+/**
+ * Función que ejecutará el juego
+ */
+
 public void play(){
-    /**
-     * Función que ejecutará el juego
-     */
-    @TODO
+    //@TODO
 }
+
+/**
+ * Esta función define al primer jugador
+ */
 
 public void first_player(){
-    /**
-     * Esta función define al primer jugador
-     */
-    @TODO
+    //@TODO
 }
+
+/**
+ * Esta función lanzará el dado
+ */
 
 public void roll_dice(){
-    /**
-     * Esta función lanzará el dado
-     */
-    @TODO
+    //@TODO
 }
 
+/**
+ * Esta funión llamará para jugar una carta
+ */
+
 public void play_card(){
-    /**
-     * Esta funión llamará para jugar una carta
-     */
-    @TODO
+    //@TODO
 }
