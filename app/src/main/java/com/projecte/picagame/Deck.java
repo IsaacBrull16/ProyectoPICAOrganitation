@@ -8,16 +8,18 @@ import ...
  * Esta clase es la baraja de cartas
  */
 
+/**
+ * Número de cartas de la baraja
+ */    
+    
 public class Deck {
-    /**
-     * Número de cartas de la baraja
-     */
     int n_cards;
 }
 
+/**
+ * Verá si la baraja está vacía
+ */
+
 public void is_empty(){
-    /**
-     * Verá si la baraja está vacía
-     */
-    @TODO
+    //@TODO
 }
