@@ -11,9 +11,10 @@ import ...
 public class Computer_Player {
 }
 
+/**
+ * Esta función hace el movimiento de la computadora
+ */
+
 public void get_move(){
-    /**
-     * Esta función hace el movimiento de la computadora
-     */
-    @TODO
+    //@TODO
 }
